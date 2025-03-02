@@ -1,0 +1,13 @@
+/* Basic Reset */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* Example: Global font customization */
+body {
+    font-family: Arial, sans-serif; /* Change to any font you prefer */
+    font-size: 16px;  /* Default font size */
+    line-height: 1.5; /* Readable line spacing */
+}
